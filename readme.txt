@@ -1,2 +1,1 @@
-第三次修改
-My stupid boss still prefers SVN.
+Creating a new branch is quick.
